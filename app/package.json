@@ -26,7 +26,7 @@
     "framer-motion": "^11.11.1",
     "gsap": "^3.12.5",
     "lucide-react": "^0.447.0",
-    "next": "^14.2.10",
+    "next": "^14.2.21",
     "next-themes": "^0.3.0",
     "pino-pretty": "^11.2.2",
     "postcss": "8.4.27",
